@@ -4,7 +4,7 @@
 | :----------- | :------------------- | :------------- | :--------------------------------------------------------------------- | :------- |
 | A            |                      | 555007.xyz     | [https](https://555007.xyz) [http](http://555007.xyz)                  |
 | CNAME        | www                  | 555007.xyz     | [https](https://www.555007.xyz) [http](http://www.555007.xyz)          |
-|              | **HOME**             |
+|              | **LAN**              |
 | A            | [isp](/#isp)         | 192.168.007.1  | [https](https://isp.555007.xyz)      [http](http://isp.555007.xyz)     |
 | A            | [pihole](/#pi-hole)  | 192.168.007.3  | [https](https://pihole.555007.xyz)   [http](http://pihole.555007.xyz)  | [:80](http://pihole.555007.xyz/admin)    |
 | A            | [core](/#proxmox)    | 192.168.007.10 | [https](https://core.555007.xyz)     [http](http://core.555007.xyz)    | [:5005](http://core.555007.xyz:5005)     |
