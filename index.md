@@ -2,7 +2,7 @@
 
 | Type         | Host                 | Values         | Web                                                                    | Services |
 | :----------- | :------------------- | :------------- | :--------------------------------------------------------------------- | :------- |
-| A            |                      | 555007.xyz     | [https](https://555007.xyz) [http](http://555007.xyz)                  |
+| A            | @                    | 555007.xyz     | [https](https://555007.xyz) [http](http://555007.xyz)                  |
 | CNAME        | www                  | 555007.xyz     | [https](https://www.555007.xyz) [http](http://www.555007.xyz)          |
 |              | **LAN**              |
 | A            | [isp](/#isp)         | 192.168.007.1  | [https](https://isp.555007.xyz)      [http](http://isp.555007.xyz)     |
